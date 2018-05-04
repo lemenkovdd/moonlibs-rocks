@@ -1,0 +1,55 @@
+## Usage
+# 1. Lines starting with '#' are comments, blank lines are ignored.
+# 2. Put one link to rockspec per line.
+
+
+## Group: https://github.com/moonlibs
+
+# Project: https://github.com/moonlibs/xqueue
+https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/config
+https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-2.rockspec
+
+# Project: https://github.com/moonlibs/kit
+https://raw.githubusercontent.com/moonlibs/kit/master/kit-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/package-reload
+https://raw.githubusercontent.com/moonlibs/package-reload/master/package.reload-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/connection-legacy
+https://raw.githubusercontent.com/moonlibs/connection-legacy/master/connection-legacy-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/spacer
+https://raw.githubusercontent.com/moonlibs/spacer/master/spacer-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/devel-caller
+https://raw.githubusercontent.com/moonlibs/devel-caller/master/devel-caller-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/string-h
+https://raw.githubusercontent.com/moonlibs/string-h/master/string-h-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/ctx
+https://raw.githubusercontent.com/moonlibs/ctx/master/ctx-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/connection-scribe
+https://raw.githubusercontent.com/moonlibs/connection-scribe/master/connection-scribe-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/bin
+https://raw.githubusercontent.com/moonlibs/bin/master/bin-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/ffi-reloadable
+https://raw.githubusercontent.com/moonlibs/ffi-reloadable/master/ffi-reloadable-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/connection
+https://raw.githubusercontent.com/moonlibs/connection/master/connection-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/net-graphite
+https://raw.githubusercontent.com/moonlibs/net-graphite/master/net.graphite-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/tarantoolapp
+https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/tarantoolapp-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/obj
+https://raw.githubusercontent.com/moonlibs/obj/master/obj-scm-1.rockspec
