@@ -1,9 +1,9 @@
 package = 'connection'
-version = 'scm-1'
+version = 'scm-2'
 
 source  = {
     url    = 'git://github.com/moonlibs/connection.git';
-    branch = 'v1';
+    branch = 'master';
 }
 
 description = {

@@ -43,7 +43,8 @@ https://raw.githubusercontent.com/moonlibs/bin/master/bin-scm-1.rockspec
 https://raw.githubusercontent.com/moonlibs/ffi-reloadable/master/ffi-reloadable-scm-1.rockspec
 
 # Project: https://github.com/moonlibs/connection
-https://raw.githubusercontent.com/moonlibs/connection/master/connection-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/connection/master/rockspecs/connection-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/connection/master/rockspecs/connection-scm-2.rockspec
 
 # Project: https://github.com/moonlibs/net-graphite
 https://raw.githubusercontent.com/moonlibs/net-graphite/master/net.graphite-scm-1.rockspec
