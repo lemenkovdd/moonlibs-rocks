@@ -1,7 +1,7 @@
 DIR_TOP := .
 
 LS_ROCKSPEC = $(wildcard $(DIR_TOP)/*.rockspec)
-LS_MANIFEST = $(addprefix $(DIR_TOP)/, manifest manifest-5.1 manifest-5.2 manifest-5.3)
+LS_MANIFEST = $(addprefix $(DIR_TOP)/,manifest manifest-5.1 manifest-5.2 manifest-5.3 manifest-5.4)
 
 
 LUAROCKS := luarocks
@@ -33,9 +33,9 @@ clean: mostyclean
 .PHONY: clean
 
 distclean: clean
-	rm -rf $(DIR_TOP)/index.html $(addsuffix .1,$(LS_ROCKSPEC))
+	rm -f $(addsuffix .1,$(LS_ROCKSPEC))
 .PHONY: distclean
 
 realclean: distclean
-	rm -rf $(LS_ROCKSPEC) $(LS_MANIFEST)
+	rm -f $(DIR_TOP)/index.html $(LS_ROCKSPEC) $(LS_MANIFEST)
 .PHONY: realclean
