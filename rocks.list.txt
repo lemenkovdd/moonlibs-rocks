@@ -7,10 +7,13 @@
 
 # Project: https://github.com/moonlibs/xqueue
 https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-2.rockspec
+https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-3.rockspec
 
 # Project: https://github.com/moonlibs/config
 https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-1.rockspec
 https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-2.rockspec
+https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-3.rockspec
 
 # Project: https://github.com/moonlibs/kit
 https://raw.githubusercontent.com/moonlibs/kit/master/kit-scm-1.rockspec
@@ -50,7 +53,7 @@ https://raw.githubusercontent.com/moonlibs/connection/master/rockspecs/connectio
 https://raw.githubusercontent.com/moonlibs/net-graphite/master/net.graphite-scm-1.rockspec
 
 # Project: https://github.com/moonlibs/tarantoolapp
-https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/rockspecs/tarantoolapp-1.0.2-1.rockspec
+https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/rockspecs/tarantoolapp-1.0.3-1.rockspec
 https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/rockspecs/tarantoolapp-scm-3.rockspec
 
 # Project: https://github.com/moonlibs/obj
@@ -61,3 +64,16 @@ https://raw.githubusercontent.com/moonlibs/luarocks/master/luarocks-dev-1.rocksp
 
 # Project: https://github.com/moonlibs/stash
 https://raw.githubusercontent.com/moonlibs/stash/master/rockspecs/stash-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/val
+https://raw.githubusercontent.com/moonlibs/val/master/rockspecs/val-scm-1.1.rockspec
+https://raw.githubusercontent.com/moonlibs/val/master/rockspecs/val-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/val/master/rockspecs/val-scm-latest.rockspec
+
+# Project: https://github.com/moonlibs/hostname
+https://raw.githubusercontent.com/moonlibs/hostname/master/rockspecs/hostname-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/http
+https://raw.githubusercontent.com/moonlibs/http/master/rockspecs/http-1.0.1-1.rockspec
+https://raw.githubusercontent.com/moonlibs/http/master/rockspecs/http-1.0.2-1.rockspec
+https://raw.githubusercontent.com/moonlibs/http/master/rockspecs/http-scm-1.rockspec

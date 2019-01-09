@@ -1,12 +1,12 @@
-package = 'config'
+package = 'xqueue'
 version = 'scm-2'
 source  = {
-    url    = 'git://github.com/moonlibs/config.git',
-    branch = 'v2',
+    url    = 'git://github.com/moonlibs/xqueue.git',
+    branch = 'monofix',
 }
 description = {
     summary  = "Package for loading external lua config",
-    homepage = 'https://github.com/moonlibs/config.git',
+    homepage = 'https://github.com/moonlibs/xqueue.git',
     license  = 'BSD',
 }
 dependencies = {
@@ -15,8 +15,7 @@ dependencies = {
 build = {
     type = 'builtin',
     modules = {
-        ['config'] = 'config.lua';
-        ['config.etcd'] = 'config/etcd.lua';
+        ['xqueue'] = 'xqueue.lua'
     }
 }
 

@@ -2,7 +2,7 @@ package = 'kit'
 version = 'scm-1'
 source  = {
 	url    = 'git://github.com/moonlibs/kit.git',
-	branch = 'master',
+	branch = 'v1',
 }
 description = {
 	summary  = "Compatibility kit for 1.6+",
@@ -22,7 +22,6 @@ build = {
 		['kit.1.7']   = 'kit/1/7.lua';
 		['kit.1.9']   = 'kit/1/9.lua';
 		['kit.1.10']   = 'kit/1/10.lua';
-		['kit.1.6.0'] = 'kit/1/6/0.lua';
 	}
 }
 
