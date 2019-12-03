@@ -1,18 +1,21 @@
-"Usage of this version was disabled. See issue https://github.com/moonlibs/xqueue/issues/2"
-
 package = 'xqueue'
-version = 'scm-1'
+version = 'scm-4'
 source  = {
     url    = 'git://github.com/moonlibs/xqueue.git',
-    branch = 'broken',
+    branch = 'master',
 }
 description = {
     summary  = "Package for loading external lua config",
     homepage = 'https://github.com/moonlibs/xqueue.git',
     license  = 'BSD',
 }
+-- external_dependencies = {
+--     TARANTOOL = {
+--         header = 'tarantool/module.h';
+--     }
+-- }
 dependencies = {
-    'lua >= 5.1'
+    'lua ~> 5.1';
 }
 build = {
     type = 'builtin',

@@ -6,20 +6,23 @@
 ## Group: https://github.com/moonlibs
 
 # Project: https://github.com/moonlibs/xqueue
-https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-1.rockspec
+#https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-1.rockspec
 https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-2.rockspec
 https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-3.rockspec
+https://raw.githubusercontent.com/moonlibs/xqueue/master/rockspecs/xqueue-scm-4.rockspec
 
 # Project: https://github.com/moonlibs/config
 https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-1.rockspec
 https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-2.rockspec
 https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-3.rockspec
+https://raw.githubusercontent.com/moonlibs/config/master/rockspecs/config-scm-4.rockspec
 
 # Project: https://github.com/moonlibs/kit
-https://raw.githubusercontent.com/moonlibs/kit/master/kit-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/kit/master/rockspecs/kit-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/kit/master/rockspecs/kit-scm-2.rockspec
 
 # Project: https://github.com/moonlibs/package-reload
-https://raw.githubusercontent.com/moonlibs/package-reload/master/package.reload-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/package-reload/master/rockspecs/package-reload-scm-1.rockspec
 
 # Project: https://github.com/moonlibs/connection-legacy
 https://raw.githubusercontent.com/moonlibs/connection-legacy/master/connection-legacy-scm-1.rockspec
@@ -41,6 +44,7 @@ https://raw.githubusercontent.com/moonlibs/connection-scribe/master/connection-s
 
 # Project: https://github.com/moonlibs/bin
 https://raw.githubusercontent.com/moonlibs/bin/master/bin-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/bin/master/rockspecs/bin-scm-3.rockspec
 
 # Project: https://github.com/moonlibs/ffi-reloadable
 https://raw.githubusercontent.com/moonlibs/ffi-reloadable/master/ffi-reloadable-scm-1.rockspec
@@ -50,11 +54,13 @@ https://raw.githubusercontent.com/moonlibs/connection/master/rockspecs/connectio
 https://raw.githubusercontent.com/moonlibs/connection/master/rockspecs/connection-scm-2.rockspec
 
 # Project: https://github.com/moonlibs/net-graphite
-https://raw.githubusercontent.com/moonlibs/net-graphite/master/net.graphite-scm-1.rockspec
+https://raw.githubusercontent.com/moonlibs/net-graphite/master/rockspecs/net-graphite-scm-1.rockspec
 
 # Project: https://github.com/moonlibs/tarantoolapp
 https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/rockspecs/tarantoolapp-1.0.3-1.rockspec
+https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/rockspecs/tarantoolapp-1.0.4-1.rockspec
 https://raw.githubusercontent.com/moonlibs/tarantoolapp/master/rockspecs/tarantoolapp-scm-3.rockspec
+
 
 # Project: https://github.com/moonlibs/obj
 https://raw.githubusercontent.com/moonlibs/obj/master/obj-scm-1.rockspec
@@ -77,3 +83,21 @@ https://raw.githubusercontent.com/moonlibs/hostname/master/rockspecs/hostname-sc
 https://raw.githubusercontent.com/moonlibs/http/master/rockspecs/http-1.0.1-1.rockspec
 https://raw.githubusercontent.com/moonlibs/http/master/rockspecs/http-1.0.2-1.rockspec
 https://raw.githubusercontent.com/moonlibs/http/master/rockspecs/http-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/oauth2
+https://raw.githubusercontent.com/moonlibs/oauth2/master/rockspecs/oauth2-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/nginx-graphite
+https://raw.githubusercontent.com/moonlibs/nginx-graphite/master/nginx-graphite-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/base58
+https://raw.githubusercontent.com/moonlibs/base58/master/rockspecs/base58-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/monitoring-fiber
+https://raw.githubusercontent.com/moonlibs/monitoring-fiber/master/rockspecs/monitoring-fiber-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/id
+https://raw.githubusercontent.com/moonlibs/id/master/rockspecs/id-scm-1.rockspec
+
+# Project: https://github.com/moonlibs/sync
+https://raw.githubusercontent.com/moonlibs/sync/master/rockspecs/sync-scm-1.rockspec

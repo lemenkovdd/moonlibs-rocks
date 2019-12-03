@@ -1,4 +1,4 @@
-package = 'net.graphite'
+package = 'net-graphite'
 version = 'scm-1'
 source  = {
     url    = 'git://github.com/moonlibs/net-graphite.git',
@@ -7,7 +7,7 @@ source  = {
 description = {
     summary  = "Module for send stats to graphite/ethine",
     homepage = 'https://github.com/moonlibs/net-graphite',
-    license  = 'BSD',
+    license  = 'Artistic',
 }
 dependencies = {
     

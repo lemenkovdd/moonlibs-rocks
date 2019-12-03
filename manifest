@@ -1,8 +1,20 @@
 commands = {}
 modules = {}
 repository = {
+   base58 = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    bin = {
       ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["scm-3"] = {
          {
             arch = "rockspec"
          }
@@ -20,6 +32,11 @@ repository = {
          }
       },
       ["scm-3"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["scm-4"] = {
          {
             arch = "rockspec"
          }
@@ -96,8 +113,20 @@ repository = {
          }
       }
    },
+   id = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    kit = {
       ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["scm-2"] = {
          {
             arch = "rockspec"
          }
@@ -110,7 +139,28 @@ repository = {
          }
       }
    },
-   ["net.graphite"] = {
+   ["monitoring-fiber"] = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   ["net-graphite"] = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   ["nginx-graphite"] = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   oauth2 = {
       ["scm-1"] = {
          {
             arch = "rockspec"
@@ -124,7 +174,7 @@ repository = {
          }
       }
    },
-   ["package.reload"] = {
+   ["package-reload"] = {
       ["scm-1"] = {
          {
             arch = "rockspec"
@@ -152,8 +202,20 @@ repository = {
          }
       }
    },
+   sync = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    tarantoolapp = {
       ["1.0.3-1"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["1.0.4-1"] = {
          {
             arch = "rockspec"
          }
@@ -172,17 +234,17 @@ repository = {
       }
    },
    xqueue = {
-      ["scm-1"] = {
-         {
-            arch = "rockspec"
-         }
-      },
       ["scm-2"] = {
          {
             arch = "rockspec"
          }
       },
       ["scm-3"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["scm-4"] = {
          {
             arch = "rockspec"
          }
